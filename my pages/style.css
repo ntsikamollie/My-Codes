@@ -236,8 +236,62 @@ h2{
     
 }
 
-.carousel-item{
+.carousel{
     position: relative; bottom: -70px;
     width: 1500px;
     height:590px;
 }
+
+background{
+    position: relative;
+    font-family:  Arial, sans-serif;
+    font-style: bold;
+    text-decoration: solid;
+    color: #4daec7;
+    height:200px ;
+    width: 200px;
+}
+.Founder{
+    position: relative; right: -20px; bottom:-110px;
+    font-family:  Arial, sans-serif;
+    font-style: bold;
+    text-decoration: solid;
+    color: #4daec7;
+    height:200px ;
+    width: 200px;
+}
+.PRA{
+    color: aliceblue;
+    font-size: medium;
+    font-style: italic;
+    text-decoration-color: white;
+}
+.f{
+    position: relative; right: 545px; bottom:-300px;
+    font-family:  Arial, sans-serif;
+    font-style: bold;
+    text-decoration: solid;
+    color: #4daec7;
+    height:200px ;
+    width: 200px;
+}
+.Vision{
+    position: relative; right: 545px; bottom:-300px;
+    font-family:  Arial, sans-serif;
+    font-style: bold;
+    text-decoration: solid;
+    color: #4daec7;
+    height:200px ;
+    width: 200px;
+}
+
+.Head{
+    position: relative; right: 545px; bottom:-300px;
+    font-family:  Arial, sans-serif;
+    font-style: bold;
+    text-decoration: solid;
+    color: #4daec7;
+    height:200px ;
+    width: 200px;
+}
+
